@@ -1,2 +1,2 @@
 # glass-morphism
-new ui trend
+New UI trend
